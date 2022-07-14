@@ -1,0 +1,184 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Asyana Kemayoran Jakarta",
+      "starRating": 3,
+      "price": {
+        "amount": 639618,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2020/10/11/6346db58-a478-40a6-93d4-125bf9faae2f-1602371723641-cd3b969479bf7dfe785677fe9f737135.jpg",
+      "location": {
+        "address": "Jalan Bungur Besar Raya No.79-81, Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "city": "Jakarta Pusat",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "2",
+      "name": "OYO 1121 Orienchi 2 Near RSUD Sawah Besar",
+      "starRating": 2,
+      "price": {
+        "amount": 200000,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2021/03/12/0f36ae56-058d-4352-bd04-b04f67a8c635-1615558045950-601523081007e7b3ea8ddfe97e41ab72.jpg",
+      "location": {
+        "address": "Jl. Mangga Besar VIII No.15D, RT.11/RW.1, Kota Tua, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+        "city": "Jakarta Pusat",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Hyatt Regency Yogyakarta",
+      "starRating": 3,
+      "price": {
+        "amount": 1798285,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2020/11/16/655ad163-3686-4b91-80d7-90cee6c5d9c6-1605507261957-7e053da933d88ff69734e77d2a88a0af.jpg",
+      "location": {
+        "address": "Jalan Palagan Tentara Pelajar, Sariharjo, Ngaglik, Sariharjo, Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 05581, Indonesia",
+        "city": "Sleman",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Hyatt Regency Yogyakarta",
+      "starRating": 3,
+      "price": {
+        "amount": 1798285,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2020/11/16/655ad163-3686-4b91-80d7-90cee6c5d9c6-1605507261957-7e053da933d88ff69734e77d2a88a0af.jpg",
+      "location": {
+        "address": "Jalan Palagan Tentara Pelajar, Sariharjo, Ngaglik, Sariharjo, Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 05581, Indonesia",
+        "city": "Yogyakarta",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Bale Bali House",
+      "starRating": 3,
+      "price": {
+        "amount": 1798285,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2021/09/27/d0617f88-2fe4-4e8b-853c-f05e1d242f53-1632707123992-5cdae8b8027e91089fcfaf6572948d94.jpg",
+      "location": {
+        "address": "Jl. Sugriwa No.58, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali  Indonesia",
+        "city": "Bali",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Diamond Hotel Kuta Bali",
+      "starRating": 4,
+      "price": {
+        "amount": 432000,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2021/03/12/1a966135-1567-4569-84d8-0478e78ea424-1615536325226-951407d2accfc1f71db0f9d1196cf7a5.jpg",
+      "location": {
+        "address": "Jl. Raya Kuta No 39, Kuta Badung Bali",
+        "city": "Bali",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Asyana Kemayoran Jakarta 2",
+      "starRating": 3,
+      "price": {
+        "amount": 639618,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2020/10/11/6346db58-a478-40a6-93d4-125bf9faae2f-1602371723641-cd3b969479bf7dfe785677fe9f737135.jpg",
+      "location": {
+        "address": "Jalan Bungur Besar Raya No.79-81, Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "city": "Jakarta Pusat",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "8",
+      "name": "OYO 1121 Orienchi 2 Near RSUD Sawah Besar 2",
+      "starRating": 2,
+      "price": {
+        "amount": 200000,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2021/03/12/0f36ae56-058d-4352-bd04-b04f67a8c635-1615558045950-601523081007e7b3ea8ddfe97e41ab72.jpg",
+      "location": {
+        "address": "Jl. Mangga Besar VIII No.15D, RT.11/RW.1, Kota Tua, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+        "city": "Jakarta Pusat",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Hyatt Regency Yogyakarta 2",
+      "starRating": 3,
+      "price": {
+        "amount": 1798285,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2020/11/16/655ad163-3686-4b91-80d7-90cee6c5d9c6-1605507261957-7e053da933d88ff69734e77d2a88a0af.jpg",
+      "location": {
+        "address": "Jalan Palagan Tentara Pelajar, Sariharjo, Ngaglik, Sariharjo, Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 05581, Indonesia",
+        "city": "Sleman",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Hyatt Regency Yogyakarta 2",
+      "starRating": 3,
+      "price": {
+        "amount": 1798285,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2020/11/16/655ad163-3686-4b91-80d7-90cee6c5d9c6-1605507261957-7e053da933d88ff69734e77d2a88a0af.jpg",
+      "location": {
+        "address": "Jalan Palagan Tentara Pelajar, Sariharjo, Ngaglik, Sariharjo, Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 05581, Indonesia",
+        "city": "Yogyakarta",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Bale Bali House 2",
+      "starRating": 3,
+      "price": {
+        "amount": 1798285,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2021/09/27/d0617f88-2fe4-4e8b-853c-f05e1d242f53-1632707123992-5cdae8b8027e91089fcfaf6572948d94.jpg",
+      "location": {
+        "address": "Jl. Sugriwa No.58, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali  Indonesia",
+        "city": "Bali",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Diamond Hotel Kuta Bali 2",
+      "starRating": 4,
+      "price": {
+        "amount": 432000,
+        "currency": "IDR"
+      },
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mble/tix-hotel/images-web/2021/03/12/1a966135-1567-4569-84d8-0478e78ea424-1615536325226-951407d2accfc1f71db0f9d1196cf7a5.jpg",
+      "location": {
+        "address": "Jl. Raya Kuta No 39, Kuta Badung Bali",
+        "city": "Bali",
+        "country": "Indonesia"
+      }
+    }
+  ]
+}
